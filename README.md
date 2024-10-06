@@ -1,7 +1,7 @@
 <!-- [![MasterHead](https://drive.google.com/file/d/1wH2cWvNnOKVTd0zKl-08Umt5moOASkRK/view?usp=sharing)] -->
 
 <h1 align="center">Hi 👋, I'm Shrey Raj</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyraj2002&label=Profile%20views&color=0e75b6&style=flat" alt="shreyraj2002" /> </p>
 
@@ -11,9 +11,9 @@
 <p align="left"> <a href="https://twitter.com/imshreyraj" target="blank"><img src="https://img.shields.io/twitter/follow/imshreyraj?logo=twitter&style=for-the-badge" alt="imshreyraj" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Data Engineering Tools**
 
-- 🌱 I’m currently learning **Java, Kotlin & Android DEV**
+- 🌱 I’m currently learning **Snowflake, Azure Data Factory and PowerBI**
 
 - 📫 How to reach me **shreyraj2002@gmail.com**
 
